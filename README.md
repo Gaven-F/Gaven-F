@@ -31,6 +31,13 @@
     <img src="https://badges.strrl.dev/commits/monthly/Gaven-F?style=flat-square&color=silver&logo=github">
   </a>
   <hr />
+	    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=.NET&labelColor=%23ffa502&color=%23ff6348
+" />
+    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=VUE&labelColor=%23ffa502&color=%23ff6348
+" />
+    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=REACT&labelColor=%23ffa502&color=%23ff6348
+" />
+	<hr />
     <img src="https://readme-typing-svg.herokuapp.com/?lines=GF今天又偷懒了！;GF今天居然没偷懒！&center=true&vCenter=true&color=747d8c&duration=500&pause=1000&size=30">
     <hr />
     <img src="https://github-readme-stats.vercel.app/api?username=gaven-f&show_icons=true&theme=dracula"/>
@@ -41,14 +48,6 @@
     <hr />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaven-f&theme=github" />
     <hr />
-    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=.NET&labelColor=%23ffa502&color=%23ff6348
-" />
-    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=VUE&labelColor=%23ffa502&color=%23ff6348
-" />
-    <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=REACT&labelColor=%23ffa502&color=%23ff6348
-" />
-
-   <img src="[https://metrics.lecoq.io/Gaven-F?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai](https://metrics.lecoq.io/Gaven-F?template=classic&isocalendar=1&lines=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FShanghai&config.display=large)https://metrics.lecoq.io/Gaven-F?template=classic&isocalendar=1&lines=1&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=chartist&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FShanghai" />
 </div>
 
 
