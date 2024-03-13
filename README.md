@@ -19,7 +19,7 @@
     <img src="https://badges.strrl.dev/years/Gaven-F?style=flat-square&color=yellow&logo=github">
     <img src="https://badges.strrl.dev/repos/Gaven-F?style=flat-square&color=blue&logo=github">
     <img src="https://badges.strrl.dev/gists/Gaven-F?style=flat-square&color=green&logo=github">
-    <img src="https://badges.strrl.dev/commits/monthly/Gaven-F?style=flat-square&color=silver&logo=github">
+    <img src="https://badges.strrl.dev/commits/all/Gaven-F?style=flat-square&color=silver&logo=github">
   <hr />
     <img src="https://img.shields.io/badge/%E5%BA%9F%E7%89%A9%E8%AD%A6%E5%91%8A-%23eb4d4b?style=flat&label=.NET&labelColor=%23ffa502&color=%23ff6348
 " />
